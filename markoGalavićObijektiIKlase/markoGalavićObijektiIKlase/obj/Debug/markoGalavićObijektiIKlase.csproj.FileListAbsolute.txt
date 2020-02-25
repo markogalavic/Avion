@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\bin\Debug\markoGalavićObijektiIKlase.exe.config
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\bin\Debug\markoGalavićObijektiIKlase.exe
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\bin\Debug\markoGalavićObijektiIKlase.pdb
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\obj\Debug\markoGalavićObijektiIKlase.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\obj\Debug\markoGalavićObijektiIKlase.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\obj\Debug\markoGalavićObijektiIKlase.exe
+C:\Users\3.D\source\repos\markoGalavićObijektiIKlase\markoGalavićObijektiIKlase\obj\Debug\markoGalavićObijektiIKlase.pdb
